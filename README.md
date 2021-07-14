@@ -5,3 +5,5 @@ short to-do list of study topics for becoming a software engineer
 
 - ### Arrays
 	- Sort an array of 0s, 1s and 2s
+    - Quick Sort
+    - Union and Intersection of two sorted arrays
