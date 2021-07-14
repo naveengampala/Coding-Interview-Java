@@ -7,3 +7,5 @@ short to-do list of study topics for becoming a software engineer
 	- Sort an array of 0s, 1s and 2s
     - Quick Sort
     - Union and Intersection of two sorted arrays
+    - Count pairs with given sum
+    - Find duplicates in O(n) time and O(1) extra space
