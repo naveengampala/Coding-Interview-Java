@@ -10,3 +10,4 @@ short to-do list of study topics for becoming a software engineer
     - Count pairs with given sum
     - Find duplicates in O(n) time and O(1) extra space
     - Find common elements in three sorted arrays
+    - Rearrange array in alternating positive & negative items with O(1) extra space
