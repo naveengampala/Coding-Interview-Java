@@ -11,3 +11,8 @@ short to-do list of study topics for becoming a software engineer
     - Find duplicates in O(n) time and O(1) extra space
     - Find common elements in three sorted arrays
     - Rearrange array in alternating positive & negative items with O(1) extra space
+    
+- ### Binary Tree
+	- Print bottom view of a binary tree
+    - Check if two binary trees are identical or not – Iterative and Recursive
+    - Inorder Tree Traversal – Iterative and Recursive
