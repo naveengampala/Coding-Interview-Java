@@ -17,3 +17,4 @@ short to-do list of study topics for becoming a software engineer
     - Check if two binary trees are identical or not – Iterative and Recursive
     - Inorder Tree Traversal – Iterative and Recursive
     - **In-place convert a binary tree to its sum tree**
+    - Construct a binary tree from inorder and postorder traversals
