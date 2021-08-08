@@ -20,3 +20,4 @@ short to-do list of study topics for becoming a software engineer
     - Construct a binary tree from inorder and postorder traversals
 - ### Heaps
 	- Convert max heap to min heap in linear time
+    - Find k’th largest element in an array
