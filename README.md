@@ -18,3 +18,5 @@ short to-do list of study topics for becoming a software engineer
     - Inorder Tree Traversal – Iterative and Recursive
     - **In-place convert a binary tree to its sum tree**
     - Construct a binary tree from inorder and postorder traversals
+- ### Heaps
+	- Convert max heap to min heap in linear time
